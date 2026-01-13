@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+    margin:0%;
+    padding:0%;
+
+}
+.todo-container{
+    background-color: lightskyblue;
+    width:400px;
+    height:600px;
+    margin:auto;
+    margin-top:50px;
+}
+h3{
+    text-align: center;
+    padding:10px;
+    background-color: floralwhite;
+    color:chocolate;
+}
+.input-box{
+    width:80%;
+    height:40px;
+    text-align: center;
+    margin-left: 30px;
+}
+.task-button{
+    height:40px;
+    background-color: lightcoral;
+    border:none;
+    color:white;
+    border-radius:10px;
+}
